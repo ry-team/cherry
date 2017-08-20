@@ -1,5 +1,6 @@
 ---
 title: Cherry — Blockchain Food Path Marking
+permalink: /cherry/
 ---
 
 # Cherry — Blockchain Food Path Marking
